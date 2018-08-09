@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  sexo: MyString
+  conocido: false
+  id_rango_edad: 1
+  id_etnia: 1
+  id_rango_estatura: 1
+  id_complexion_fisica: 1
+  senales_particulares: MyText
+  id_denuncia: 1
+
+two:
+  sexo: MyString
+  conocido: false
+  id_rango_edad: 1
+  id_etnia: 1
+  id_rango_estatura: 1
+  id_complexion_fisica: 1
+  senales_particulares: MyText
+  id_denuncia: 1

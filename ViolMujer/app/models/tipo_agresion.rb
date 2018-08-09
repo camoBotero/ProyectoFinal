@@ -1,0 +1,2 @@
+class TipoAgresion < ApplicationRecord
+end

@@ -1,0 +1,2 @@
+class RangoEdadController < ApplicationController
+end

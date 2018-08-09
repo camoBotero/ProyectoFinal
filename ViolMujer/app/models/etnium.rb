@@ -1,0 +1,2 @@
+class Etnium < ApplicationRecord
+end

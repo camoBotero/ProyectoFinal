@@ -1,0 +1,2 @@
+class Agresor < ApplicationRecord
+end

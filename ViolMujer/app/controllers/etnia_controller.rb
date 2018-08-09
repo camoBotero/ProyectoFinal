@@ -1,0 +1,2 @@
+class EtniaController < ApplicationController
+end

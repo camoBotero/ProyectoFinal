@@ -1,0 +1,2 @@
+class TipoAgresionController < ApplicationController
+end

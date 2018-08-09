@@ -1,0 +1,2 @@
+class ComplexionFisica < ApplicationRecord
+end

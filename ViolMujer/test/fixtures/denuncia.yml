@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  id_denunciante: 1
+  esvictima: false
+  id_victima: 1
+  fecha_hora: 2018-08-08
+  latitud: 1.5
+  longitud: 1.5
+  descripcion: MyText
+  id_tipo_agresion: 1
+
+two:
+  id_denunciante: 1
+  esvictima: false
+  id_victima: 1
+  fecha_hora: 2018-08-08
+  latitud: 1.5
+  longitud: 1.5
+  descripcion: MyText
+  id_tipo_agresion: 1
