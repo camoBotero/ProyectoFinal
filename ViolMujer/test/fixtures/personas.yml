@@ -5,6 +5,7 @@ one:
   numero_id: MyString
   nombres: MyString
   apellido: MyString
+  sexo: MyString
   telefono: MyString
   correo: MyString
   id_rango_edad: 1
@@ -15,6 +16,7 @@ two:
   numero_id: MyString
   nombres: MyString
   apellido: MyString
+  sexo: MyString
   telefono: MyString
   correo: MyString
   id_rango_edad: 1

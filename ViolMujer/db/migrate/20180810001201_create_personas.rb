@@ -5,6 +5,7 @@ class CreatePersonas < ActiveRecord::Migration[5.2]
       t.string :numero_id
       t.string :nombres
       t.string :apellido
+      t.string :sexo
       t.string :telefono
       t.string :correo
       t.integer :id_rango_edad
